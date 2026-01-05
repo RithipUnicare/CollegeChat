@@ -16,7 +16,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/ic_launcher.png",
+        "foregroundImage": "./assets/collegeAssistantAiChatBot.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.anonymous.CollegeChat"
