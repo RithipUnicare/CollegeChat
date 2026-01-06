@@ -3,7 +3,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 
 // API Base URL
 export const API_BASE_URL =
-  "http://app.undefineddevelopers.online/collegechatbot";
+  "https://app.undefineddevelopers.online/collegechatbot";
 
 // Create axios instance with default configuration
 const apiClient = axios.create({
